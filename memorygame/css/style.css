@@ -91,6 +91,9 @@ footer {
     color: #F15B31;
     font-weight: 500;
 }
+.hearts {
+  color: red;
+}
 .clearfix:after {
   visibility: hidden;
   display: block;
